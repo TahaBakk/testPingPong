@@ -1,0 +1,9 @@
+c:\users\taha\documents\visual studio 2017\Projects\Lliga_ping_pong\Lliga_ping_pong\bin\Debug\Lliga_ping_pong.exe.config
+c:\users\taha\documents\visual studio 2017\Projects\Lliga_ping_pong\Lliga_ping_pong\bin\Debug\Lliga_ping_pong.exe
+c:\users\taha\documents\visual studio 2017\Projects\Lliga_ping_pong\Lliga_ping_pong\bin\Debug\Lliga_ping_pong.pdb
+c:\users\taha\documents\visual studio 2017\Projects\Lliga_ping_pong\Lliga_ping_pong\obj\Debug\Lliga_ping_pong.csprojResolveAssemblyReference.cache
+c:\users\taha\documents\visual studio 2017\Projects\Lliga_ping_pong\Lliga_ping_pong\obj\Debug\Lliga_ping_pong.Form1.resources
+c:\users\taha\documents\visual studio 2017\Projects\Lliga_ping_pong\Lliga_ping_pong\obj\Debug\Lliga_ping_pong.Properties.Resources.resources
+c:\users\taha\documents\visual studio 2017\Projects\Lliga_ping_pong\Lliga_ping_pong\obj\Debug\Lliga_ping_pong.csproj.GenerateResource.Cache
+c:\users\taha\documents\visual studio 2017\Projects\Lliga_ping_pong\Lliga_ping_pong\obj\Debug\Lliga_ping_pong.exe
+c:\users\taha\documents\visual studio 2017\Projects\Lliga_ping_pong\Lliga_ping_pong\obj\Debug\Lliga_ping_pong.pdb
